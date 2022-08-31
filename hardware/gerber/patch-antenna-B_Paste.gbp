@@ -1,0 +1,26 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,6.0.2+dfsg-1*
+G04 #@! TF.CreationDate,2022-08-15T17:06:06+10:00*
+G04 #@! TF.ProjectId,patch-antenna,70617463-682d-4616-9e74-656e6e612e6b,1*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Paste,Bot*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 6.0.2+dfsg-1) date 2022-08-15 17:06:06*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.000000X1.000000*%
+%ADD11R,1.050000X2.200000*%
+G04 APERTURE END LIST*
+D10*
+G04 #@! TO.C,J1*
+X129510000Y-106300000D03*
+D11*
+X128035000Y-107800000D03*
+X130985000Y-107800000D03*
+D10*
+X129510000Y-109300000D03*
+G04 #@! TD*
+M02*
